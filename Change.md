@@ -1,0 +1,1 @@
+The process of becoming different over time.

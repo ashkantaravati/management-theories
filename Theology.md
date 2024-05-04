@@ -1,0 +1,1 @@
+The study of the nature of the divine and religious belief.

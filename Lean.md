@@ -1,0 +1,1 @@
+A production philosophy aiming to eliminate waste and maximize efficiency.

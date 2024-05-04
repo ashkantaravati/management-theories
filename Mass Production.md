@@ -1,0 +1,1 @@
+Large-scale manufacturing of standardized products.

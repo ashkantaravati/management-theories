@@ -1,0 +1,1 @@
+The ability to influence and guide others towards a common goal.

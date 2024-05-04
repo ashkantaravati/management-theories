@@ -1,0 +1,1 @@
+Framework for understanding the interrelation between parts of a whole system.

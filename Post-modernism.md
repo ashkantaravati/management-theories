@@ -1,0 +1,1 @@
+A philosophical stance critiquing modernist notions, emphasizing subjectivity, plurality, and skepticism toward grand narratives.

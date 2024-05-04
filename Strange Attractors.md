@@ -1,0 +1,1 @@
+Patterns in chaotic systems that represent the system's long-term behavior.

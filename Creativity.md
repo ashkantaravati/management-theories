@@ -1,0 +1,1 @@
+The ability to generate novel ideas or solutions.

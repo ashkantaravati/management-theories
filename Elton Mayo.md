@@ -1,0 +1,1 @@
+A researcher known for his contributions to the Hawthorne Studies, which highlighted the importance of social factors in productivity.

@@ -1,0 +1,1 @@
+Considered the father of modern economics, known for his work "The Wealth of Nations," advocating for free markets and division of labor.

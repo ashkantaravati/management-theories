@@ -1,0 +1,1 @@
+Resistance to change or motion.

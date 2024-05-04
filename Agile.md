@@ -1,0 +1,1 @@
+A project management methodology emphasizing flexibility, collaboration, and iterative development.
