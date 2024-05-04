@@ -1,0 +1,1 @@
+Knowledge codification involves structuring and organizing tacit and explicit knowledge into accessible formats, such as documents, databases, and repositories. Knowledge repositories serve as centralized platforms for storing, retrieving, and sharing knowledge assets across the organization.

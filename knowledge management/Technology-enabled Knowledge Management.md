@@ -1,0 +1,1 @@
+Advances in [[information technology]], such as intranets, social media, artificial intelligence, and data analytics, have transformed knowledge management practices. These technologies enable efficient knowledge capture, storage, retrieval, and analysis, as well as facilitate [[collaboration]], [[communication]], and [[decision-making]] within [[organization]]s.

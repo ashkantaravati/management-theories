@@ -1,0 +1,1 @@
+ICM focuses on managing the intellectual assets of an [[organization]], including its human capital (skills, [[expertise]]), structural capital ([[process]]es, [[system]]s), and relational capital (relationships, networks). Effective [[Knowledge Management]] contributes to enhancing and leveraging these [[intellectual capital]] components for [[competitive advantage]].
