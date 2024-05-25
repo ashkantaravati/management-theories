@@ -1,0 +1,1 @@
+An ecosystem is a [[system]] that environments and their organisms form through their interaction. The biotic and abiotic components are linked together through nutrient cycles and energy flows. Ecosystems are controlled by external and internal factors

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"b927c58b96c7c697","type":"file","file":"responding to Change.md","x":-400,"y":60,"width":400,"height":180},
+		{"id":"16a42d21584ea5d4","type":"file","file":"Inertia.md","x":376,"y":-367,"width":400,"height":149},
+		{"id":"462e3e91f8ebae00","type":"file","file":"constructs/Chaos.md","x":300,"y":379,"width":400,"height":157},
+		{"id":"77631fa728ac618d","type":"file","file":"Business Ecosystem.md","x":700,"y":609,"width":400,"height":517},
+		{"id":"802a33593c0c1864","type":"file","file":"Systems theory.md","x":-360,"y":1608,"width":400,"height":148},
+		{"id":"fc37e31840a6ba55","type":"file","file":"notable figures/Peter Senge.md","x":-800,"y":1626,"width":400,"height":112},
+		{"id":"325d1f14438337dd","type":"file","file":"Systems Thinking.md","x":-600,"y":1280,"width":400,"height":136},
+		{"id":"f6e30ea1aa8fd63b","x":-680,"y":854,"width":400,"height":143,"type":"file","file":"constructs/system.md"},
+		{"id":"69f6bc1be244b1b4","type":"file","file":"Complex Systems.md","x":-100,"y":828,"width":400,"height":169},
+		{"id":"a3dd5a4554414d49","type":"file","file":"Agile.md","x":-440,"y":-292,"width":400,"height":163},
+		{"id":"5dbda6576834f2a9","type":"file","file":"Transformation.md","x":600,"y":-129,"width":400,"height":141},
+		{"id":"72ac236b49e59e73","type":"file","file":"constructs/Change.md","x":-360,"y":373,"width":400,"height":169},
+		{"id":"cf5c1487ec509a86","type":"file","file":"constructs/Ecosystem.md","x":640,"y":1348,"width":400,"height":242},
+		{"id":"ec56aa3921f863e3","type":"file","file":"schools of thought/Post-modernism.md","x":0,"y":1247,"width":400,"height":169},
+		{"id":"b658aa09f9c6a859","x":100,"y":1608,"width":400,"height":148,"type":"file","file":"Resiliency.md"},
+		{"id":"090732d31a14693a","x":700,"y":230,"width":400,"height":143,"type":"file","file":"collaboration.md"}
+	],
+	"edges":[
+		{"id":"d510e294c36a5b8f","fromNode":"ec56aa3921f863e3","fromSide":"top","toNode":"69f6bc1be244b1b4","toSide":"bottom"},
+		{"id":"7a755271227d68b1","fromNode":"69f6bc1be244b1b4","fromSide":"top","toNode":"72ac236b49e59e73","toSide":"bottom"},
+		{"id":"f39128df33535b56","fromNode":"69f6bc1be244b1b4","fromSide":"top","toNode":"462e3e91f8ebae00","toSide":"bottom"},
+		{"id":"3dbb93a0fa217e04","fromNode":"cf5c1487ec509a86","fromSide":"top","toNode":"77631fa728ac618d","toSide":"bottom"},
+		{"id":"2b7f0893d4ff1627","fromNode":"72ac236b49e59e73","fromSide":"top","toNode":"5dbda6576834f2a9","toSide":"bottom"},
+		{"id":"af9bc41cdadfe28a","fromNode":"72ac236b49e59e73","fromSide":"top","toNode":"b927c58b96c7c697","toSide":"bottom"},
+		{"id":"ff88801aa7bd3cad","fromNode":"802a33593c0c1864","fromSide":"top","toNode":"325d1f14438337dd","toSide":"bottom"},
+		{"id":"af0e9d93743ba1b7","fromNode":"325d1f14438337dd","fromSide":"top","toNode":"f6e30ea1aa8fd63b","toSide":"bottom"},
+		{"id":"fee438fcefa75942","fromNode":"fc37e31840a6ba55","fromSide":"top","toNode":"325d1f14438337dd","toSide":"bottom"},
+		{"id":"4c039e58346f266a","fromNode":"f6e30ea1aa8fd63b","fromSide":"right","toNode":"69f6bc1be244b1b4","toSide":"left"},
+		{"id":"fbbaa0bdd95d54e9","fromNode":"69f6bc1be244b1b4","fromSide":"right","toNode":"cf5c1487ec509a86","toSide":"left"},
+		{"id":"0582286a66bfefd0","fromNode":"a3dd5a4554414d49","fromSide":"bottom","toNode":"b927c58b96c7c697","toSide":"top"},
+		{"id":"0567aeb19dba2c8b","fromNode":"16a42d21584ea5d4","fromSide":"left","toNode":"b927c58b96c7c697","toSide":"right"},
+		{"id":"9c75f7fc0c3f6c53","fromNode":"462e3e91f8ebae00","fromSide":"left","toNode":"72ac236b49e59e73","toSide":"right"},
+		{"id":"5e773681fc120946","fromNode":"090732d31a14693a","fromSide":"bottom","toNode":"77631fa728ac618d","toSide":"top"}
+	]
+}

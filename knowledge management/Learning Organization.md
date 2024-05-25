@@ -1,6 +1,6 @@
 The concept of a learning [[organization]], popularized by [[Peter Senge]], emphasizes continuous learning, adaptation, and [[Innovation]] as essential for organizational success. [[Knowledge Management]] plays a vital role in fostering a learning [[Culture]] where individuals and teams actively seek, share, and apply knowledge to improve performance and achieve organizational goals.
 
-Peter Senge's Concept of Learning Organizations: Peter Senge, in his seminal work "[[The Fifth Discipline]]", introduced the concept of a learning organization—a place where people continually expand their capacity to create the results they truly desire, where new and expansive patterns of thinking are nurtured, where collective aspiration is set free, and where people are continually learning to see the whole together.
+Peter Senge's Concept of Learning Organizations: Peter Senge, in his seminal work "[[The Fifth Discipline by Peter Senge]]", introduced the concept of a learning organization—a place where people continually expand their capacity to create the results they truly desire, where new and expansive patterns of thinking are nurtured, where collective aspiration is set free, and where people are continually learning to see the whole together.
 
 Characteristics of Learning Organizations: Learning organizations exhibit several key characteristics, including:
 
